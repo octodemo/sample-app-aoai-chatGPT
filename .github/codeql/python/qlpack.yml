@@ -1,0 +1,5 @@
+library: false
+name: octodemo/sample
+version: 0.0.1
+dependencies:
+  codeql/python-all: '*'
