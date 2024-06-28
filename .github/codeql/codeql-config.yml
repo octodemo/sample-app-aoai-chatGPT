@@ -1,3 +1,9 @@
 
 queries:
   - uses: ./.github/codeql/python/Prompt.ql
+
+packs:
+  # JavaScript / Typescript
+  - githubsecuritylab/codeql-javascript-queries
+  # Python
+  - githubsecuritylab/codeql-python-queries
